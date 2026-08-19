@@ -9,7 +9,7 @@ export const site = {
   cau: "Sob consulta",
   location: "Londrina — PR",
   // TODO: número real com DDI/DDD, só dígitos
-  whatsapp: "5543999140409",
+  whatsapp: "554388377274",
   // TODO: handle real do Instagram
   instagram: "eliasgomes.arq",
   email: "contato@eliasgomes.arq", // TODO
